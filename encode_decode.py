@@ -29,7 +29,7 @@ def decode(s):
 
 while True:    
  print('''
-  Do you want to encode or decoee?
+  Do you want to encode or decode?
        1.encode
        2.decode
  
