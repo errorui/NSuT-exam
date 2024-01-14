@@ -52,8 +52,10 @@ while True:
  finally:
      b=input("want to continue y/n :")
      if b=='n':
+        print("good bye")
         break
      if b=='y':
+       
        print("\n \n")
      else:
          print("invalid choice")  
